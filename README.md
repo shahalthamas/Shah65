@@ -20,6 +20,14 @@ Lock and Snap in fit Case
 ### 3D case
 Onshape: [Link](https://cad.onshape.com/documents/f1803f145455ec0103fb0303/w/ed14bef00e1f0e3e76f49260/e/63a18fe0a0e5d5b9d507f784?renderMode=0&uiState=6b055399905bbdc01cb6fa95)
 
+![](https://fabricate.hackclub-assets.com/578026c0a380bb3508e10e1d5e8477dd19939e528b074ce0be7e0e1064bc2df1/image-png/image.png)
+
+![](https://fabricate.hackclub-assets.com/54d099bce1feaa8fb9b26a8eacf80ca60a07a9d54258cab1c5b176dad33b172c/image-png/image.png)
+
+![](https://fabricate.hackclub-assets.com/f3787e985fbc78ab7ba6e1753d6697e4f1efb997b06ccb9556ad941f19847f36/image-png/image.png)
+
+![](https://fabricate.hackclub-assets.com/04b65a020d100c997c82698c23eda7597a308aaa28af1afb4336cadbce4cc16a/image-png/image.png)
+
 ### BOM
 
 | PART | TYPE | QUANTITY | UNIT PRICE (USD) | LINE TOTAL (USD) | LINK | VENDOR | Funding | Notes |
