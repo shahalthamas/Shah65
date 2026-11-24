@@ -6,6 +6,7 @@ A custom 65% compact, minimalist, aesthetic & cute mechanical keyboard, Uses RP2
 65% layout
 Hot-Swappable Switches
 Middle Type C port
+Lock and Snap in fit Case
 
 ### Schematic
 
@@ -17,7 +18,7 @@ Middle Type C port
 ![PCB](/img/Screenshot%202026-11-23%20043416.png)
 
 ### 3D case
-Onshape: [Link](https://onshape.com)
+Onshape: [Link](https://cad.onshape.com/documents/f1803f145455ec0103fb0303/w/ed14bef00e1f0e3e76f49260/e/63a18fe0a0e5d5b9d507f784?renderMode=0&uiState=6b055399905bbdc01cb6fa95)
 
 ### BOM
 
