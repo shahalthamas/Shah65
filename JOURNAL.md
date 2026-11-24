@@ -1,9 +1,9 @@
 ---
 title: "Shah65"
-github: ""
+github: "https://github.com/shahalthamas/Shah65"
 description: "A custom 65% minimalist keyboard using RP2040"
 created_at: "2026-11-22"
-total_time: "2h 54m"
+total_time: "5h 12m"
 ---
 
 # November 23, 2026: Schematic
@@ -39,3 +39,25 @@ After doing a DRC, I got a couple of silkscreen error, but other than that every
 ![](https://fabricate.hackclub-assets.com/585f2aa70f08db63b03aca79c6eecc3379059220069d10e9a01e8a1c862be096/image-png/image.png)
 
 **Total time spent: 1h 24m**
+
+# November 24, 2026: CADDING
+
+I am comfortable using Blender, than Fusion or Onshape, as i have been practicing animations, 3d models on Blender since the start. I noticed that Hack Club doesn't support Blender anymore, Well I have been practicing on Onshape..., So if you could accept this one time ?
+<br>
+I have added both Onshape as well as Blender files in case of any modification or authenticity required.
+<br>
+I used the plate.dfx to design the Plate, and then I designed the Bottom and Top based on the PCB and Plate, also leaving enough padding to have underside wires or components (SMD) without colliding with the Bottom FDM.
+<br>
+This is a lock and click in design, as I wanted to avoid using screws, hence a lock and click-in design also if you could notice, this is extremely compact, yet has an lovely aesthetic look :D !!
+<br>
+![](https://fabricate.hackclub-assets.com/578026c0a380bb3508e10e1d5e8477dd19939e528b074ce0be7e0e1064bc2df1/image-png/image.png)
+<br>
+[Onshape Link](https://cad.onshape.com/documents/f1803f145455ec0103fb0303/w/ed14bef00e1f0e3e76f49260/e/63a18fe0a0e5d5b9d507f784?renderMode=0&uiState=6b055399905bbdc01cb6fa95)
+<br>
+![](https://fabricate.hackclub-assets.com/54d099bce1feaa8fb9b26a8eacf80ca60a07a9d54258cab1c5b176dad33b172c/image-png/image.png)
+![](https://fabricate.hackclub-assets.com/f3787e985fbc78ab7ba6e1753d6697e4f1efb997b06ccb9556ad941f19847f36/image-png/image.png)
+![](https://fabricate.hackclub-assets.com/04b65a020d100c997c82698c23eda7597a308aaa28af1afb4336cadbce4cc16a/image-png/image.png)
+
+![](https://fabricate.hackclub-assets.com/6915252c316e0da8f16e1f779bdb55b15ce28a0fd9eb1269e55c4ba3994f8cd1/video-mp4/animation.mp4)
+
+**Total time spent: 2h 18m**
